@@ -10,13 +10,13 @@
       padding: 0;
     }
     header {
-      background: #2c3e50;
+      background: #997405;
       color: white;
       padding: 15px;
       text-align: center;
     }
     nav {
-      background: #34495e;
+      background: #874f0f;
       text-align: center;
       padding: 10px;
     }
@@ -61,7 +61,7 @@
       border-radius: 5px;
     }
     input[type="submit"] {
-      background: #2980b9;
+      background: #997405;
       color: white;
       padding: 10px 20px;
       border: none;
@@ -69,10 +69,10 @@
       cursor: pointer;
     }
     input[type="submit"]:hover {
-      background: #3498db;
+      background: #997405;
     }
     footer {
-      background: #2c3e50;
+      background: #997405;
       color: white;
       text-align: center;
       padding: 10px;
